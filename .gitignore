@@ -1,0 +1,37 @@
+﻿# Environment files and API keys
+.env
+.env.*
+
+# Python environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Audio files
+*.wav
+*.mp3
+
+# Model files
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.h5
+*.pkl
+
+# Chroma databases
+chroma_db/
+vector_db/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# Logs
+*.log
